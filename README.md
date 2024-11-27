@@ -71,10 +71,14 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/58127844-ad2f-4354-ae97-8717cc4d987d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Beneath the folders, right-click.
+ <br />
+Select: New, then select: Folder.
+ <br />
+Title the folder: read-access .
 </p>
 ________________________________________________________________________________________________________________________
 <br />
@@ -83,9 +87,15 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/830daab6-8791-4861-820b-14a756d6ae97" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Right-click: read-access.
+ <br />
+Select: properties.
+ <br />
+At the top select: sharing.
+ <br />
 
 </p>
 ________________________________________________________________________________________________________________________
