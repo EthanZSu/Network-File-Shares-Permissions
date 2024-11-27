@@ -34,8 +34,8 @@ This lab focuses on file shares & permissions, along with security groups betwee
 
 <h2>Actions and Observations</h2>
 <p>
-<h3>1. </h3>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>1. With an Admin Account: Create File Shares and Permissions. </h3>
+<img src="https://github.com/user-attachments/assets/aa5bc1e2-4ece-45fe-a763-15c6c51f5d05" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
