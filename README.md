@@ -4,7 +4,7 @@
 </p>
 
 
-This lab focuses on file shares & permissions between an administrator user and other workers in Active Directory.  <br />
+This lab focuses on file shares & permissions, along with security groups between an administrator user and other users in Active Directory.  <br />
 
 
 
