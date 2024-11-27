@@ -1,6 +1,6 @@
 # Network-File-Shares-Permissions
 <p align="center">
-<img src=" " height="70" width="110"  alt="osTicket logo"/>
+<img src=" " height="70" width="110" />
 </p>
 
 
@@ -27,10 +27,10 @@ This lab focuses on file shares & permissions, along with security groups betwee
 
 <h2>Lab Experiment Phases</h2>
 
- 1. 
- 2. 
- 3. 
- 4. 
+ 1. With an Admin Account: Create File Shares and Permissions.
+ 2. With a Regular Account: Test the File Share Access.
+ 3. With an Admin Account: Create a Security Group With Permissions.
+ 4. With a Regular Account: Test the Security Group Access.
 
 <h2>Actions and Observations</h2>
 <p>
