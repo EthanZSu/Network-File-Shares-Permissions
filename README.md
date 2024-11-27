@@ -13,7 +13,6 @@ This lab focuses on file shares & permissions between an administrator user and 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory
-- Command Prompt
 
 <h2>Operating Systems Used </h2>
 
