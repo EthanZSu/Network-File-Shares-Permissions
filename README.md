@@ -1,6 +1,6 @@
 # Network-File-Shares-Permissions
 <p align="center">
-<img src=" " height="70" width="110" />
+<img src=" " height="70" width="110" alt="Disk Sanitization Steps"/>
 </p>
 
 
