@@ -38,6 +38,78 @@ This lab focuses on file shares & permissions, along with security groups betwee
 <img src="https://github.com/user-attachments/assets/aa5bc1e2-4ece-45fe-a763-15c6c51f5d05" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+In Microsoft Azure search: Virtual Machines & select DC-1 VM.
+ <br />
+Copy DC-1's Public IP address into the Remote Desktop Connection & Connect.
+ <br />
+Enter the administrator account credentials for the VM: your domain administrator account & password.
+ <br />
+ <br />
+Select "Yes" to the Remote Desktop Connection Pop-up.
+</p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
+<br />
+
+
+<img src="https://github.com/user-attachments/assets/800a6ec0-67d7-490b-872a-ab8f791355b4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In DC-1's taskbar search box, search for "File explorer".
+ <br />
+On the left select: This PC.
+ <br />
+Then select: Windows(c:) .
+ 
+</p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
+<br />
+
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
+<br />
+
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
+<br />
+
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
+<br />
+
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 </p>
 ________________________________________________________________________________________________________________________
