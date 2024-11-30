@@ -105,10 +105,13 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/f13cc8b6-e466-42d9-9fad-5d3244a0913c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Click: Share,
+Input: Domain Users,
+Click: Add,
+Click: Share, Done, Close.
 </p>
 ________________________________________________________________________________________________________________________
 <br />
