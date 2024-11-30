@@ -175,10 +175,14 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/9a070866-d676-473f-b15d-1bf27c989c5e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Beneath the folders, right-click.
+ <br />
+Select: New, then select: Folder.
+ <br />
+Title the folder: no-access .
 </p>
 ________________________________________________________________________________________________________________________
 <br />
@@ -187,10 +191,14 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/50b95691-2b47-4ca5-a3c0-54ec236b33ff" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Right-click: no-access.
+ <br />
+Select: properties.
+ <br />
+At the top select: sharing.
 </p>
 ________________________________________________________________________________________________________________________
 <br />
@@ -199,10 +207,14 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/02d476e0-1e57-4047-a887-9d91cea1de6c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Click: Share,
+Input: Domain Admins,
+Click: Add,
+Change Permission Level to: Read/Write.
+Click: Share, Done, Close.
 </p>
 ________________________________________________________________________________________________________________________
 <br />
