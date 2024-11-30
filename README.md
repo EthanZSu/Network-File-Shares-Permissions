@@ -123,10 +123,14 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/f2d834c6-c35e-43d4-90ef-952e0fa3355c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Beneath the folders, right-click.
+ <br />
+Select: New, then select: Folder.
+ <br />
+Title the folder: write-access .
 </p>
 ________________________________________________________________________________________________________________________
 <br />
@@ -135,10 +139,14 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/2e63d83d-e64c-430a-9286-852fbe3df190" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Right-click: write-access.
+ <br />
+Select: properties.
+ <br />
+At the top select: sharing.
 </p>
 ________________________________________________________________________________________________________________________
 <br />
@@ -147,10 +155,18 @@ ________________________________________________________________________________
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e44b28d9-7def-43a8-9c31-3c2d76f73c4c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Click: Share,
+ <br />
+Input: Domain Users,
+ <br />
+Click: Add,
+ <br />
+Change Permission Level to: Read/Write.
+ <br />
+Click: Share, Done, Close.
 </p>
 ________________________________________________________________________________________________________________________
 <br />
