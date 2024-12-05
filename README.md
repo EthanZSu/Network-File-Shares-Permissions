@@ -4,7 +4,7 @@
 </p>
 
 
-This lab focuses on file shares & permissions, along with security groups between an administrator user and other users in Active Directory.  <br />
+This lab focuses on file shares & permissions between an administrator user and other users in Active Directory.  <br />
 
 
 
@@ -29,8 +29,6 @@ This lab focuses on file shares & permissions, along with security groups betwee
 
  1. With an Admin Account: Create File Shares and Permissions.
  2. With a Regular Account: Test the File Share Access.
- 3. With an Admin Account: Create a Security Group With Permissions.
- 4. With a Regular Account: Test the Security Group Access.
 
 <h2>Actions and Observations</h2>
 <p>
