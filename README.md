@@ -1,7 +1,5 @@
 # Network-File-Shares-Permissions
-<p align="center">
-<img src=" " height="70" width="110" alt="File Share Img"/>
-</p>
+
 
 
 This lab focuses on file shares & permissions between an administrator user and other users in Active Directory.  <br />
